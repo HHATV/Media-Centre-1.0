@@ -1,5 +1,5 @@
 name="Tony's Wizard"
 url="http://176.25.118.93:55153/Build.zip"
-img="http://176.25.118.93:55153/icon.png"
-fanart="http://176.25.118.93:55153/bg.jpg"
-description="Your one stop build installation - Media Center V1.0 - (Eminence 2.0) "
+img="https://github.com/HHATV/Media-Centre-1.0/raw/master/icon.png"
+fanart="https://github.com/HHATV/Media-Centre-1.0/raw/master/bg.jpg"
+description="Build Installation - Media Center V1.0 - (Eminence 2.0) - by Tony McGarry "
