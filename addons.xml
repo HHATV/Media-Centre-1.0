@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.mediacenter1.0" name="Tony's Wizard" version="1.0" provider-name="Tony">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Media Center 1.0 Build Wizard</summary>
+    <description lang="en">One stop build installation wizard. A cool faclift to Eminence 2.0 with the most recent add ons for your viewing pleasure....enjoy!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>
